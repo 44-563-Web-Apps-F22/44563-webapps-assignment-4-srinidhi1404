@@ -92,7 +92,7 @@ table, td, th {
   }
 
   .name:hover {
-    text-shadow: 3px 3px darkgrey;
+    text-shadow: 3px 3px 3px rgb(88, 87, 87);
     border: 2px solid indigo;
 }
 
