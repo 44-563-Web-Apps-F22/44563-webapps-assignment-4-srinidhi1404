@@ -57,3 +57,38 @@
 .DianaMer{
     color: darkgreen;
 }
+
+table, td, th {
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  table {
+    width: 40%;
+    border-collapse: collapse;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f9f8f8;
+  }
+
+  tr:nth-child(odd) {
+    background-color: #f3e1e1;
+  }
+  td{
+    color: cadetblue;
+  }
+  th{
+    color: darkolivegreen;
+  }
+  th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+  .name:hover {
+    text-shadow: 3px 3px darkgrey;
+    border: 2px solid indigo;
+}
