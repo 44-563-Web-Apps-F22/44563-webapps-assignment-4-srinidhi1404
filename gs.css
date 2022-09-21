@@ -48,15 +48,18 @@
     color:darkcyan;
 }
 
+.DianaMer{
+  color: darkgreen;
+}
+
+
 .chorus{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: brown;
     font-size: medium;
 }
 
-.DianaMer{
-    color: darkgreen;
-}
+
 
 table, td, th {
     border: 1px solid;
