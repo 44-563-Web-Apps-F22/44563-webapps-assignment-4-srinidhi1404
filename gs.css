@@ -1,24 +1,24 @@
 .speech{
-font-family: "Courier New";
-font-size: small;
-text-indent: 3%;
-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    text-indent: 3%;
+    color: black;
 }
 
 .song{
-font-family: "Courier New";
-font-style: italic;
-font-size: small;
-text-indent: 20%;
-width: 30%;
-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: medium;
+    text-indent: 20%;
+    width: 30%;
+    color: black;
 }
 
 .direction{
-font-family: "Courier New";
-font-size: small;
-background-color: lightgoldenrodyellow;
-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    background-color: lightgoldenrodyellow;
+    color: black;
 }
 
 .direction:hover{
@@ -27,9 +27,9 @@ color: black;
 }
 
 .name{
-font-family: "Courier New";
-font-size: medium;
-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: black;
 }
 
 .Apollo{
@@ -49,6 +49,11 @@ color: black;
 }
 
 .chorus{
-    font-family: "Courier New";
-    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+    font-size: medium;
+}
+
+.DianaMer{
+    color: darkgreen;
 }
